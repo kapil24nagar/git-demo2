@@ -8,4 +8,5 @@ this is to test shortcut.
 this is to test comming aling with index.html. added
 #after comming index and readme file
 som more text to test.added
-
+# to update rmote repo
+this line should apear on the remote repo git-demo2
